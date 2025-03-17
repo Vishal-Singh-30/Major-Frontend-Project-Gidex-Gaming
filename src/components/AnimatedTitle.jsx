@@ -1,8 +1,47 @@
 import React from 'react'
+import { useRef } from 'react'
+import gsap from 'gsap'
+import { useEffect } from 'react'
 
-const AnimatedTitle = () => {
-  return (
-    <div className='mt-5 text-center text-4xl uppercase leading-[0.8] md:text-[6rem]'>Disc<b>o</b>ver the w<b>o</b>rld's <br /> l<b>a</b>rgest sha<b>r</b>ed ad<b>v</b>enture</div>
+
+
+
+const AnimatedTitle = ({title, containerClass}) => {
+  
+  const containerRef = useRef(null);
+
+  useEffect(()=>{
+    const ctx = gsap.context(()=>{
+        const titleAnimation = gsap.timeline({
+            scrollTrigger: {
+                trigger: containerRef.current,
+                start: '100 bottom',
+                end : 'center bottom',
+                toggleActions: 'play none none reverse',
+            }
+        });
+        titleAnimation.to('.animated-word', {
+            opacity: 1,
+            transform: 'translate3d(0,0,0) rotateY(0deg) rotateX(0deg)',
+            ease: 'power2.inOut',
+            stagger: 0.02,
+        })
+    }, containerRef);
+
+    // clean that useEffect up
+    return () => ctx.revert();
+
+  },[]) // when page loads
+  
+    return (
+    <div ref={containerRef} className={`animated-title ${containerClass}`}>
+        {title.split('<br />').map((line,index)=>{
+            return <div key={index} className="flex-center max-w-full flex-wrap gap-2 px-10 md:gap-3">
+                {line.split(' ').map((word,i)=>{ 
+                    return <span key={i} className='animated-word' dangerouslySetInnerHTML={{__html: word}}/>
+                })}
+            </div>
+    })}</div>
   )
 }
 
