@@ -7,14 +7,11 @@ GideonX is a responsive, interactive web application reimagining the Valorant ga
 The project showcases how established gaming websites can be reimagined with cutting-edge web technologies, creating a more engaging and interactive user experience while maintaining the core brand identity of the original tactical shooter game.
 
 ### Image Gallery
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="./Readme File Assets/gidex_0.png" alt="Screenshot 1" style="width: 100%;">
-  <img src="/Readme File Assets/gidex_1.png" alt="Screenshot 2" style="width: 100%;">
-  <img src="/Readme File Assets/gidex_2.png" alt="Screenshot 3" style="width: 100%;">
-  <img src="/Readme File Assets/gidex_3.png" alt="Screenshot 4" style="width: 100%;">
-  <img src="/Readme File Assets/gidex_4.png" alt="Screenshot 5" style="width: 100%;">
-  <img src="/Readme File Assets/gidex_5.png" alt="Screenshot 6" style="width: 100%;">
-</div>
+  |  |
+--------------|--------------|
+![Home Section 1](/Readme%20File%20Assets/gidex_0.png) | ![Home Section 2](/Readme%20File%20Assets/gidex_1.png) |
+![Featured Projects 1](/Readme%20File%20Assets/gidex_2.png) | ![Featured Projects 2](/Readme%20File%20Assets/gidex_3.png) |
+![Inspiration Cards 1](/Readme%20File%20Assets/gidex_4.png) | ![Inspiration Cards 2](/Readme%20File%20Assets/gidex_5.png) |
 
 ## Table of Contents
 
