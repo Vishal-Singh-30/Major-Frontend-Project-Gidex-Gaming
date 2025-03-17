@@ -7,11 +7,46 @@ GideonX is a responsive, interactive web application reimagining the Valorant ga
 The project showcases how established gaming websites can be reimagined with cutting-edge web technologies, creating a more engaging and interactive user experience while maintaining the core brand identity of the original tactical shooter game.
 
 ### Image Gallery
-  |  |
---------------|--------------|
-![Home Section 1](/Readme%20File%20Assets/gidex_0.png) | ![Home Section 2](/Readme%20File%20Assets/gidex_1.png) |
-![Featured Projects 1](/Readme%20File%20Assets/gidex_2.png) | ![Featured Projects 2](/Readme%20File%20Assets/gidex_3.png) |
-![Inspiration Cards 1](/Readme%20File%20Assets/gidex_4.png) | ![Inspiration Cards 2](/Readme%20File%20Assets/gidex_5.png) |
+<div style="text-align: center;">
+<table>
+  <tr>
+    <td width="50%" style="text-align: center;">
+      <img src="/Readme%20File%20Assets/gidex_0.png" alt="Home Section 1" width="100%"/>
+      <br>
+      <em>Home Section - Hero Area</em>
+    </td>
+    <td width="50%" style="text-align: center;">
+      <img src="/Readme%20File%20Assets/gidex_1.png" alt="Home Section 2" width="100%"/>
+      <br>
+      <em>Home Section - About Area</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align: center;">
+      <img src="/Readme%20File%20Assets/gidex_2.png" alt="Featured Projects 1" width="100%"/>
+      <br>
+      <em>Features Section - Main Card</em>
+    </td>
+    <td width="50%" style="text-align: center;">
+      <img src="/Readme%20File%20Assets/gidex_3.png" alt="Featured Projects 2" width="100%"/>
+      <br>
+      <em>Features Section - Bento Grid</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align: center;">
+      <img src="/Readme%20File%20Assets/gidex_4.png" alt="Inspiration Cards 1" width="100%"/>
+      <br>
+      <em>Story Section - Interactive Image</em>
+    </td>
+    <td width="50%" style="text-align: center;">
+      <img src="/Readme%20File%20Assets/gidex_5.png" alt="Inspiration Cards 2" width="100%"/>
+      <br>
+      <em>Contact Section - Stylized Layout</em>
+    </td>
+  </tr>
+</table>
+</div>
 
 ## Table of Contents
 
