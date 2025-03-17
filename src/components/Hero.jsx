@@ -143,17 +143,17 @@ const Hero = () => {
                     onLoadedData={handleVideoLoad}
                     />
                 </div>
-                <h1 className='special-font hero-heading absolute bottom-5 right-5 z-40 text-blue-75'>G<b>A</b>MING</h1>
+                <h1 className='special-font hero-heading absolute bottom-5 right-5 z-40 text-blue-75'>V<b>A</b>L<b>O</b>RANT</h1>
                 <div className='absolute left-0 top-0 z-40 size-full'>
                     <div className='mt-24 px-5 sm:px-10'>
-                        <h1 className='special-font hero-heading text-blue-100'>GI<b>D</b>EX</h1>
-                        <p className='mb-5 max-w-64 font-robert-regular text-blue-100'>Enter the Metagame Layer <br />
-                        Unleash the Play Economy</p>
-                        <Button id='watch-trailer' title='Watch Trailer' leftIcon={<TiLocationArrow />} containerClass='!bg-yellow-300 flex-center gap-1'/>
+                        <h1 className='special-font hero-heading text-blue-100'>GI<b>D</b>E<b>O</b>N<b>X</b></h1>
+                        <p className='mb-5 max-w-72 font-robert-regular text-blue-100'>A 5v5 character-based tactical shooter <br />
+                        DEFY THE LIMITS</p>
+                        <Button src="https://youtu.be/e_E9W2vsRbQ?si=uy_yPkEO9tIGAS22" id='watch-trailer' title='Watch Trailer' leftIcon={<TiLocationArrow />} containerClass='!bg-yellow-300 flex-center gap-1 z-150'/>
                     </div>
                 </div>
             </div>
-            <h1 className='special-font hero-heading absolute bottom-5 right-5  text-black'>G<b>A</b>MING</h1>
+            <h1 className='special-font hero-heading absolute bottom-5 right-5  text-black'>V<b>A</b>L<b>O</b>RANT</h1>
         </div>
     )
 }
