@@ -13,36 +13,36 @@ The project showcases how established gaming websites can be reimagined with cut
     <td width="50%" style="text-align: center;">
       <img src="/Readme%20File%20Assets/gidex_0.png" alt="Home Section 1" width="100%"/>
       <br>
-      <em>Home Section - Hero Area</em>
+      <em>Section - Hero Area</em>
     </td>
     <td width="50%" style="text-align: center;">
       <img src="/Readme%20File%20Assets/gidex_1.png" alt="Home Section 2" width="100%"/>
       <br>
-      <em>Home Section - About Area</em>
+      <em>Section - Hero Area</em>
     </td>
   </tr>
   <tr>
     <td width="50%" style="text-align: center;">
       <img src="/Readme%20File%20Assets/gidex_2.png" alt="Featured Projects 1" width="100%"/>
       <br>
-      <em>Features Section - Main Card</em>
+      <em>Section - About Area</em>
     </td>
     <td width="50%" style="text-align: center;">
       <img src="/Readme%20File%20Assets/gidex_3.png" alt="Featured Projects 2" width="100%"/>
       <br>
-      <em>Features Section - Bento Grid</em>
+      <em>Section - Bento Grid</em>
     </td>
   </tr>
   <tr>
     <td width="50%" style="text-align: center;">
       <img src="/Readme%20File%20Assets/gidex_4.png" alt="Inspiration Cards 1" width="100%"/>
       <br>
-      <em>Story Section - Interactive Image</em>
+      <em>Section - Story Area</em>
     </td>
     <td width="50%" style="text-align: center;">
       <img src="/Readme%20File%20Assets/gidex_5.png" alt="Inspiration Cards 2" width="100%"/>
       <br>
-      <em>Contact Section - Stylized Layout</em>
+      <em>Section - Contact Area</em>
     </td>
   </tr>
 </table>
