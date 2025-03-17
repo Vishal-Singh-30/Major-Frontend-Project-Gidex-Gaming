@@ -1,6 +1,6 @@
 # Gidex - Interactive Gaming Website
 
-[![Project Demo](/Readme%20File%20Assets/gidex_0.png)](https://youtu.be/axcNwrQpCuc?si=2Mn84iH_5segBexV)
+[![Project Demo](/Readme%20File%20Assets/gidex_1.png)](https://youtu.be/axcNwrQpCuc?si=2Mn84iH_5segBexV)
 
 ## Overview
 
